@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"The concept of breakout games can be traced back to the 1970s, with Atari's iconic title "Breakout" marking its inception.","photo2":"https://iili.io/Hg6s4Tb.jpg"},
+  {"desc3":"The objective of the game was to eliminate a wall of bricks by bouncing a ball off a paddle, but arena breakout games have since evolved into a more dynamic and engaging experience","photo3":"https://iili.io/Hg6sSa9.jpg"},
+  {"desc4":"The shift towards multiplayer modes and the introduction of 3D graphics have transformed the genre, providing players with a broader range of gameplay options.","photo4":"https://iili.io/Hg6s837.jpg"},
+  {"desc5":"In arena breakout games, players control a paddle or a platform, typically located at the bottom of the screen","photo5":"https://iili.io/Hg6sk4S.jpg"},
+  {"descd":"The primary goal is to deflect a ball or projectile towards an array of objects, which may include bricks, targets, or other players' paddles","photod":"https://iili.io/Hg6sgyu.jpg"}
    ]
  
 }
